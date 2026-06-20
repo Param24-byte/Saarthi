@@ -1,0 +1,26 @@
+# Data Files (from proposal)
+Saarthi_BFI_Platform_Proposal.pdf
+proposal_text.txt
+extract_pdf.py
+
+# Databases
+backend/saarthi_bfi.db
+*.db
+*.sqlite
+
+# Python Cache
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Node Dependencies & Build outputs
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+
+# OS Files
+.DS_Store
+Thumbs.db
